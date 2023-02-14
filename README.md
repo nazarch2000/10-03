@@ -45,9 +45,7 @@ Corosync — программный продукт, который позвол�
 
 ![image](https://user-images.githubusercontent.com/106932460/218766575-ed6970c0-3c59-4bb3-b88b-faa175483e18.png)
 
-![image](https://user-images.githubusercontent.com/106932460/218767205-b87e5170-6e34-4b23-a49d-d19c715e2933.png)
-
-![image](https://user-images.githubusercontent.com/106932460/218767352-af691533-cd52-4775-9dc0-aa8fd08c97b1.png)
+![image](https://user-images.githubusercontent.com/106932460/218767513-f8f0d21c-02b8-4e54-8623-b7c90c3689c0.png)
 
 ---
 
