@@ -43,6 +43,9 @@ Corosync — программный продукт, который позвол�
 Необходимо, чтобы на всех нодах было одинаковое время.
 ![image](https://user-images.githubusercontent.com/106932460/218745295-a089fc83-03f4-43e9-9a47-1f7e3d7adad3.png)
 
+![image](https://user-images.githubusercontent.com/106932460/218766575-ed6970c0-3c59-4bb3-b88b-faa175483e18.png)
+
+![image](https://user-images.githubusercontent.com/106932460/218767205-b87e5170-6e34-4b23-a49d-d19c715e2933.png)
 
 ---
 
